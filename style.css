@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+*{
+
+    text-align: center;
+    background-color: rgb(13, 13, 65);
+}
+
+body{
+text-align: center;
+}
+
+#logo{
+text-decoration: cornsilk;
+color:whitesmoke;
+}
+
+#button1{
+background-color: tomato;
+}
+
+#hrbtTag{
+    color: tomato;
+}
